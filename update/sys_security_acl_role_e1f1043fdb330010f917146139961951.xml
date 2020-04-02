@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-02 12:39:41</sys_created_on>
+        <sys_id>e1f1043fdb330010f917146139961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_403734_yourmom_table.x_yourmom.user</sys_name>
+        <sys_package display_value="YourMom" source="x_403734_yourmom">45f180bbdb330010f91714613996194b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="YourMom">45f180bbdb330010f91714613996194b</sys_scope>
+        <sys_security_acl display_value="x_403734_yourmom_table">6df1043fdb330010f91714613996194e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e1f1043fdb330010f917146139961951</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-02 12:39:41</sys_updated_on>
+        <sys_user_role display_value="x_yourmom.user" name="x_yourmom.user">11f1c03fdb330010f91714613996197e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
